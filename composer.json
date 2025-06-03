@@ -1,5 +1,5 @@
 {
-    "name": "codezero/laravel-uri-translator",
+    "name": "pikseli/laravel-uri-translator",
     "description": "Translate a URI or individual slugs.",
     "keywords": [
         "php",
